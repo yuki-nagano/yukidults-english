@@ -194,13 +194,15 @@ body {
   background-image: url(https://images.pexels.com/photos/3326208/pexels-photo-3326208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   color: #fff;
   background-size: cover;
+  /* iphone doesn't be applied fix background
   background-attachment: fixed;
   background-repeat: no-repeat;
   width: 100%;
-  position: relative;
+  position: relative; */
 }
 
-@media (min-width: 768px) {
+
+@media (min-width: 769px) {
   .contactSection {
     background-image: url(https://images.pexels.com/photos/3326208/pexels-photo-3326208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
     background-size: cover;
