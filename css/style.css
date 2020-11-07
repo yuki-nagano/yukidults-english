@@ -83,7 +83,6 @@ body {
   width: 100%;
   height: 250px;
   top: 55%;
-  /* z-index: 5; */
   text-align: center;
   margin-top: -125px;
   font-family: 'Work Sans', sans-serif;
@@ -112,9 +111,6 @@ body {
   .main {
     font-size: 32px;
     font-weight: bold;
-    /* position: absolute;
-    left: 6%;
-    top: 20%; */
   }
 
   .top_reserve {
@@ -143,15 +139,8 @@ body {
 }
 
 .details_background {
-/* background-color: #E3E3E3; */
   background-color: #a1bfc9;
 }  
-
-/* .schedule_section {
-  background-color: rgba(248, 236, 255, 0.719);
-  padding:100px 0;
-  font-family: 'Montserrat', sans-serif;
-} */
 
 .profile_pic {
   width: 100%;
@@ -160,11 +149,6 @@ body {
 }
 
 @media (max-width: 515px) {
-  /* .profile_pic {
-    width: 50px;
-    border-radius: 10px;
-  } */
-
   .section_overlay {
     height: 100%;
   }
@@ -212,11 +196,7 @@ body {
 }
 
 
-/* @media (min-width: 400px) and (max-width: 767px) {
-  .contactSection {
-    background-image: url(https://images.pexels.com/photos/3408353/pexels-photo-3408353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1920&w=2880);
-  }
-} */
+
 
 .contactBtn {
   color: #fff;
@@ -237,17 +217,6 @@ body {
   color: black;
   background-color: #fff;
   filter: alpha;
-}
-
-/* @media (max-width: 515px) {
-  .contactBtn {
-    font-size: 20px;
-  }
-} */
-
-.filter {
-  text-align: center;
-  width: 100%;
 }
 
 .section .heading {
@@ -310,10 +279,6 @@ li {
   border-radius: 240px 15px 185px 15px / 15px 200px 15px 185px;
   margin: 2em 0;
   padding: 2em;
-  /* box-shadow: 0 1px 3px rgba(106,137,152,0.2);
-  padding: 8%;
-  border: 5px solid thistle;
-  margin-bottom: 30px; */
 }
 
 .bank_account {
