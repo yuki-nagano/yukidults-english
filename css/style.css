@@ -47,6 +47,10 @@ body {
     .for_sm {
       display: none;
     }
+
+    .start_today {
+      font-size: 14px;
+    }
   }
 
   @media (max-width: 800px) {
