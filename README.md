@@ -4,9 +4,7 @@ https://yuki-nagano.github.io/yukidults-english/
 
 This is a website that I use for my business; private english lessons.
 
-Also practice for front-end skills such as HTML, CSS, JavaScript.
- 
-  
+Also for practice front-end skills such as HTML, CSS, JavaScript(Vanilla).
   
 
 ◡̈ Commit message prefix: 
@@ -22,8 +20,7 @@ Also practice for front-end skills such as HTML, CSS, JavaScript.
 `refactor`: (refactoring production code, eg. renaming a variable)
 - :white_check_mark:
 `test`: (adding missing tests, refactoring tests; no production code change)
-- 
-`chore`: (updating grunt tasks etc; no production code change)
+- `chore`: (updating grunt tasks etc; no production code change)
 
 ◡̈ other emojis
 - :fire: : Remove code or files
